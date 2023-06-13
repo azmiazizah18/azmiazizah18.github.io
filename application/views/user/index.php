@@ -132,7 +132,7 @@
                             <div class="welcome-text">
                                 <p style="color: #fff; font-size: 18px;">Halo<b style="color: #fff; font-size: 16px; font-weight: bold;">  <?= $this->session->userdata('nama');?></b></p>
                                 <h2>
-                                <span>SELAMAT DATANG DI</span> <span class="coloring">CLOUD</span>
+                                <span>SELAMAT DATANG DI</span> <span class="coloring">UTAMI HOTEL</span>
                                 </h2>
                                 <h1 class="cd-headline clip">
                                     <span>KEUNGGULAN</span>
